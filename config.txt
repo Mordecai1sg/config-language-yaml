@@ -1,0 +1,25 @@
+|| comment
+
+begin
+    name := 123;
+    ASd := 456.78;
+    zxc := 789;
+end
+
+<# 
+comment
+comment
+#> 
+
+var cat := 999;
+var first := 1233;
+var second := 624;
+var result := first + second;
+
+
+
+var five := 5;
+var two := 2;
+var minus := five - two;
+max(first, second, five, two, cat)
+
