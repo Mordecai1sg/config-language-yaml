@@ -14,6 +14,7 @@
 **Запуск:**
 python main.py config.txt
 
-Результат
+**Пример работы:**
 
 ![Скриншот 1](https://github.com/Mordecai1sg/config-language-yaml/blob/main/1.PNG)
+![Скриншот 2]([C:\path\to\your\photo2.png](https://github.com/Mordecai1sg/config-language-yaml/blob/main/2.PNG))
